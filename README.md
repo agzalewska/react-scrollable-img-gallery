@@ -2,7 +2,7 @@
 
 Scrollable Picture Gallery built with React.js, JavaScript, HTML and CSS. 
 
-It uses The Unsplash API:
+### The Unsplash API used for this project:
 
 https://unsplash.com/developers
 
