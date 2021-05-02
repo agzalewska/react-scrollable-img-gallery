@@ -10,7 +10,7 @@ The app allows users to scroll through an endless collection of images and use t
 
 Hovering over an image allows the user to see the name of the potographer, who took the picture, their avatar and the number of likes the photo received.
 
-Clicking on the photographer's avatar will redirect the user to the photographer's website.
+Clicking on the photographer's avatar will redirect the user to the photographer's portfolio website.
 
 
 # Getting Started with Create React App
