@@ -1,3 +1,12 @@
+## Scrollable Picture Gallery
+
+Scrollable Picture Gallery built with React.js, JavaScript, HTML and CSS. 
+
+It uses The Unsplash API:
+
+https://unsplash.com/developers
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
