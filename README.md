@@ -12,6 +12,15 @@ Hovering over an image allows the user to see the name of the potographer, who t
 
 Clicking on the photographer's avatar will redirect the user to the photographer's portfolio website.
 
+### API documentation: 
+
+https://unsplash.com/documentation#search
+
+Search photos:
+
+Get a single page of photo results for a query.
+
+GET /search/photos
 
 # Getting Started with Create React App
 
