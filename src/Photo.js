@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Photo = ({
   urls: { regular },
   alt_description,
